@@ -1,7 +1,8 @@
-# Developed by: HARSHAVRDHAN 
-# Reg no: 212222240114
-# Ex.No: 07                                       AUTO REGRESSIVE MODEL
-### Date: 
+#### Developed by: HARSHAVRDHAN 
+#### Reg no: 212222240114
+### Date:
+#### Ex.No: 07                                       AUTO REGRESSIVE MODEL
+ 
 
 
 
